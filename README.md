@@ -1,5 +1,5 @@
 # firetest
-
+[![Run on Repl.it](https://repl.it/badge/github/webdevmatics/firebase-vuejs)](https://repl.it/github/webdevmatics/firebase-vuejs)
 > A Vue.js project
 
 ## Build Setup
